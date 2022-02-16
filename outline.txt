@@ -1,0 +1,10 @@
+***Breaking Down the Problem***
+- Day 1 -
+* Create a snake body with three squares (side by side)
+* Move the snake
+* Control the snake using the keyboard arrows
+- Day 2 -
+* Put food on screen and detect collision with food and new food ets created randomly
+* Create scoreboard
+* Detect collision with wall
+* Detect collision with tail
